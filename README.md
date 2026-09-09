@@ -21,8 +21,8 @@
 ```yaml
 ho_va_ten:      "DO MINH THUAN"
 vai_tro:        "Backend Web Developer"
-dam_me:         ["RESTful API", "System Design", "Database Optimization", "Microservices"]
-dang_hoc:       "Kiến trúc Microservices & Message Queue nâng cao"
+dam_me:         ["RESTful API", "System Design", "Database Optimization", "Microservices", "FontEnd", "BackEnd"]
+dang_hoc:       "Software Engineer"
 so_thich:       "Thiết kế API rõ ràng, tối ưu truy vấn, code dễ bảo trì"
 lien_he:        "xem phần Kết nối bên dưới 👇"
 ```
