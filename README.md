@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Database-SQL%20%7C%20NoSQL-0f2027?style=for-the-badge&logo=postgresql&logoColor=2DD4BF&labelColor=0f2027" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20work-0f2027?style=for-the-badge&logo=statuspage&logoColor=2DD4BF&labelColor=0f2027" />
 </p>
+</div>
+
 <br/>
 ## 👨‍💻 Về mình
 
@@ -179,6 +181,10 @@ lien_he:        "xem phần Kết nối bên dưới 👇"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+---
+
+<div align="center">
+<sub>⭐ Cảm ơn bạn đã ghé thăm profile của mình!</sub>
+</div>
 
 </div>
