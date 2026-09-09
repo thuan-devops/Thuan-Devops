@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header-banner.svg" alt="Header Banner" width="100%" />
+
 
 <p align="center">
   <a href="#">
