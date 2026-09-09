@@ -31,29 +31,46 @@ lien_he:        "xem phần Kết nối bên dưới 👇"
 
 <br/>
 
-## 🛠️ Kỹ năng / Tech Stack
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
-
-### 💻 Ngôn ngữ & Framework Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,python,django&theme=dark" />
-
-### 🗄️ Database & Cache
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
-
-### 🔁 API & Kiến trúc
-<img src="https://skillicons.dev/icons?i=graphql,swagger,kafka,rabbitmq&theme=dark" />
-
-### 🐳 DevOps & Triển khai
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions&theme=dark" />
-
-### 🧰 Công cụ & Version Control
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,linux&theme=dark" />
-
-### 🧪 Testing
-<img src="https://skillicons.dev/icons?i=jest,mocha&theme=dark" />
-
-</div>
+<table>
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+      <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=java&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>UI & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 
 <br/>
