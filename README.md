@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Thuan+%F0%9F%91%8B;Backend+Developer+%7C+API+%26+System+Design;Building+scalable+%26+robust+backend+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Thuan+%F0%9F%91%8B;Backend+Developer+%7C+AI+%26+System+Design;Building+scalable+%26+robust+backend+systems" alt="Typing SVG" />
   </a>
 </p>
 
