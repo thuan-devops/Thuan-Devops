@@ -1,26 +1,19 @@
 <div align="center">
 
-# 👋 Xin chào, mình là Thuấn
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0%3A0f2027%2C50%3A203a43%2C100%3A2c5364&height=250&section=header&text=Thuan%20DevOps&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Web%20Developer%20%7C%20API%20%26%20System%20Design&descAlignY=55&descSize=18)
 
-### Backend Web Developer | API & System Design
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Thuan+%F0%9F%91%8B;Backend+Developer+%7C+API+%26+System+Design;Building+scalable+%26+robust+backend+systems" alt="Typing SVG" />
+  </a>
+</p>
 
-Xây dựng hệ thống backend mạnh mẽ — dễ mở rộng
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Developer-0f2027?style=for-the-badge&logo=nodedotjs&logoColor=2DD4BF&labelColor=0f2027" />
+  <img src="https://img.shields.io/badge/Database-SQL%20%7C%20NoSQL-0f2027?style=for-the-badge&logo=postgresql&logoColor=2DD4BF&labelColor=0f2027" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20work-0f2027?style=for-the-badge&logo=statuspage&logoColor=2DD4BF&labelColor=0f2027" />
+</p>
 <br/>
-
-<img src="https://img.shields.io/badge/Backend-Developer-0f2027?style=for-the-badge&logo=nodedotjs&logoColor=2DD4BF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Database-SQL%20%7C%20NoSQL-0f2027?style=for-the-badge&logo=postgresql&logoColor=2DD4BF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Status-Available%20for%20work-0f2027?style=for-the-badge&logo=statuspage&logoColor=2DD4BF&labelColor=0f2027" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-
 ## 👨‍💻 Về mình
 
 ```yaml
@@ -186,6 +179,10 @@ lien_he:        "xem phần Kết nối bên dưới 👇"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+---
+
+<div align="center">
+<sub>⭐ Cảm ơn bạn đã ghé thăm profile của mình!</sub>
+</div>
 
 </div>
