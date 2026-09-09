@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0%3A0f2027%2C50%3A203a43%2C100%3A2c5364&height=250&section=header&text=Thuan%20DevOps&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Web%20Developer%20%7C%20API%20%26%20System%20Design&descAlignY=55&descSize=18)
+<img src="./image/header-banner.svg" alt="Header Banner" width="100%" />
 
 <p align="center">
   <a href="#">
