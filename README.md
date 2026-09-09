@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header-banner.svg" alt="Header Banner" width="100%" />
+<img src="./image/header-banner.svg" alt="Header Banner" width="100%" />
 
 <p align="center">
   <a href="#">
@@ -103,8 +103,7 @@ lien_he:        "xem phần Kết nối bên dưới 👇"
 <td width="50%" valign="top">
 
 ### 📦 Tên dự án 1 — E-commerce API
-**Mô tả:** Xây dựng RESTful API cho hệ thống thương mại điện tử: quản lý sản phẩm, giỏ hàng, đơn hàng, thanh toán online, tối ưu truy vấn giảm 40% thời gian phản hồi.
-
+**Mô tả:** 
 **Công nghệ:** `Node.js` `Express` `MySQL` `Redis` `JWT`
 
 🔗 [Xem chi tiết](https://github.com/ThuanDevops/ten-du-an-1)
@@ -113,7 +112,7 @@ lien_he:        "xem phần Kết nối bên dưới 👇"
 <td width="50%" valign="top">
 
 ### 🔐 Tên dự án 2 — Auth & Permission Service
-**Mô tả:** Dịch vụ xác thực & phân quyền tập trung (Authentication/Authorization) dùng cho nhiều hệ thống nội bộ, hỗ trợ OAuth2, Role-based Access Control.
+**Mô tả:** 
 
 **Công nghệ:** `NestJS` `PostgreSQL` `OAuth2` `Docker`
 
@@ -124,18 +123,18 @@ lien_he:        "xem phần Kết nối bên dưới 👇"
 <tr>
 <td width="50%" valign="top">
 
-### 📨 Tên dự án 3 — Notification System
-**Mô tả:** Hệ thống gửi thông báo bất đồng bộ (email/SMS/push) sử dụng message queue, xử lý hàng chục nghìn request mỗi phút mà không nghẽn hệ thống chính.
+### 📨 Tên dự án 3 — EGA FURNITURE
+**Mô tả:** Website EGA FURNITURE thương hiệu nội thất cao cấp chuyên cung cấp các sản phẩm phòng khách, phòng ngủ và phòng làm việc đa dạng phong cách. Với phương châm "Chất lượng tạo nên khác biệt", EGA FURNITURE cam kết mang đến thiết kế hợp xu hướng, giá tốt cùng dịch vụ giao hàng, lắp đặt tận nơi và chính sách bảo hành minh bạch.
 
-**Công nghệ:** `RabbitMQ` `Node.js` `Redis`
+**Công nghệ:** `HTML` `JAVASCRIPT` `CSS` `JS`
 
-🔗 [Xem chi tiết](https://github.com/ThuanDevops/ten-du-an-3)
+ View:🔗 https://github.com/thuan-devops/Ega-Furniture
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Tên dự án 4 — Reporting & Analytics API
-**Mô tả:** API tổng hợp báo cáo, thống kê doanh thu theo thời gian thực cho dashboard quản trị, tối ưu query trên tập dữ liệu lớn.
+**Mô tả:** 
 
 **Công nghệ:** `Python` `Django` `PostgreSQL` `Celery`
 
