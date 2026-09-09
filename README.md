@@ -19,7 +19,7 @@
 ## 👨‍💻 Về mình
 
 ```yaml
-ho_va_ten:      "Thuan"
+ho_va_ten:      "DO MINH THUAN"
 vai_tro:        "Backend Web Developer"
 dam_me:         ["RESTful API", "System Design", "Database Optimization", "Microservices"]
 dang_hoc:       "Kiến trúc Microservices & Message Queue nâng cao"
