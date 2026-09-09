@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Thuan%20DevOps&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Web%20Developer%20%7C%20API%20%26%20System%20Design&descAlignY=55&descSize=18" width="100%"/>
+# 👋 Xin chào, mình là Thuấn
+
+### Backend Web Developer | API & System Design
+
+Xây dựng hệ thống backend mạnh mẽ — dễ mở rộng
 
 <br/>
-
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Thu%E1%BA%A5n+%F0%9F%91%8B;Backend+Developer+%7C+API+%26+System+Design;X%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+backend+m%E1%BA%A1nh+m%E1%BA%BD+-+d%E1%BB%85+m%E1%BB%9F+r%E1%BB%99ng" alt="Typing SVG" />
-</a>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Backend-Developer-0f2027?style=for-the-badge&logo=nodedotjs&logoColor=2DD4BF&labelColor=0f2027" />
 <img src="https://img.shields.io/badge/Database-SQL%20%7C%20NoSQL-0f2027?style=for-the-badge&logo=postgresql&logoColor=2DD4BF&labelColor=0f2027" />
@@ -17,6 +15,11 @@
 </div>
 
 <br/>
+
+---
+
+<br/>
+
 
 ## 👨‍💻 Về mình
 
