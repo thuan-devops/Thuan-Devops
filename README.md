@@ -121,7 +121,7 @@ contact:         "See the Connect with Me section below "
 <td width="50%" valign="top">
 
 ### 📨 Project 3 — EGA FURNITURE
-**Description:** Website EGA FURNITURE thương hiệu nội thất cao cấp chuyên cung cấp các sản phẩm phòng khách, phòng ngủ và phòng làm việc đa dạng phong cách. Với phương châm "Chất lượng tạo nên khác biệt", EGA FURNITURE cam kết mang đến thiết kế hợp xu hướng, giá tốt cùng dịch vụ giao hàng, lắp đặt tận nơi và chính sách bảo hành minh bạch.
+**Description:** Official e-commerce website for EGA FURNITURE, a premium furniture brand specializing in modern living room, bedroom, and workspace decor. Built around the commitment to quality and contemporary design, offering transparent warranties and seamless delivery services.
 
 **Technologies:** `HTML` `JAVASCRIPT` `CSS` `JS`
 
