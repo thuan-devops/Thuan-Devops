@@ -14,17 +14,16 @@
 </div>
 
 <br/>
-## 👨‍💻 Về mình
+👨‍💻 About Me
 
 ```yaml
-ho_va_ten:      "DO MINH THUAN"
-vai_tro:        "Backend Engineer Developer"
-dam_me:         ["RESTful API", "System Design", "Database Optimization", "Microservices", "FontEnd", "BackEnd"]
-dang_hoc:       "Software Engineer"
-so_thich:       "Thiết kế API rõ ràng, tối ưu truy vấn, code dễ bảo trì"
-lien_he:        "xem phần Kết nối bên dưới 👇"
+full_name:       "DO MINH THUAN"
+role:            "Backend Engineer Developer"
+passions:        ["RESTful API", "System Design", "Database Optimization", "Microservices", "Frontend", "Backend"]
+studying:        "Software Engineering"
+interests:       "Designing clean APIs, query optimization, writing maintainable code"
+contact:         "See the Connect with Me section below "
 ```
-
 <br/>
 
 ## 🛠️ Tech Stack & Skills
@@ -94,49 +93,49 @@ lien_he:        "xem phần Kết nối bên dưới 👇"
 
 <br/>
 
-## 🚀 Dự án nổi bật
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Tên dự án 1 — E-commerce API
-**Mô tả:** 
-**Công nghệ:** `Node.js` `Express` `MySQL` `Redis` `JWT`
+### 📦 Project 1 — E-commerce API
+**Description:** 
+**Technologies:** `Node.js` `Express` `MySQL` `Redis` `JWT`
 
-🔗 [Xem chi tiết](https://github.com/ThuanDevops/ten-du-an-1)
+🔗 [View](https://github.com/ThuanDevops/ten-du-an-1)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Tên dự án 2 — Auth & Permission Service
-**Mô tả:** 
+### 🔐 Project 2 — Auth & Permission Service
+**Description:** 
 
-**Công nghệ:** `NestJS` `PostgreSQL` `OAuth2` `Docker`
+**Technologies:** `NestJS` `PostgreSQL` `OAuth2` `Docker`
 
-🔗 [Xem chi tiết](https://github.com/ThuanDevops/ten-du-an-2)
+🔗 [View](https://github.com/ThuanDevops/ten-du-an-2)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📨 Tên dự án 3 — EGA FURNITURE
-**Mô tả:** Website EGA FURNITURE thương hiệu nội thất cao cấp chuyên cung cấp các sản phẩm phòng khách, phòng ngủ và phòng làm việc đa dạng phong cách. Với phương châm "Chất lượng tạo nên khác biệt", EGA FURNITURE cam kết mang đến thiết kế hợp xu hướng, giá tốt cùng dịch vụ giao hàng, lắp đặt tận nơi và chính sách bảo hành minh bạch.
+### 📨 Project 3 — EGA FURNITURE
+**Description:** Website EGA FURNITURE thương hiệu nội thất cao cấp chuyên cung cấp các sản phẩm phòng khách, phòng ngủ và phòng làm việc đa dạng phong cách. Với phương châm "Chất lượng tạo nên khác biệt", EGA FURNITURE cam kết mang đến thiết kế hợp xu hướng, giá tốt cùng dịch vụ giao hàng, lắp đặt tận nơi và chính sách bảo hành minh bạch.
 
-**Công nghệ:** `HTML` `JAVASCRIPT` `CSS` `JS`
+**Technologies:** `HTML` `JAVASCRIPT` `CSS` `JS`
 
  View:🔗 https://github.com/thuan-devops/Ega-Furniture
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Tên dự án 4 — Reporting & Analytics API
-**Mô tả:** 
+### 📊 Project 4 — Reporting & Analytics API
+**Description:** 
 
-**Công nghệ:** `Python` `Django` `PostgreSQL` `Celery`
+**Technologies:** `Python` `Django` `PostgreSQL` `Celery`
 
-🔗 [Xem chi tiết](https://github.com/ThuanDevops/ten-du-an-4)
+🔗 [View](https://github.com/ThuanDevops/ten-du-an-4)
 
 </td>
 </tr>
@@ -157,7 +156,7 @@ lien_he:        "xem phần Kết nối bên dưới 👇"
 
 <br/>
 
-## 🌐 Kết nối với mình
+## 🌐 Connect with Me
 
 <div align="center">
 
@@ -181,7 +180,7 @@ lien_he:        "xem phần Kết nối bên dưới 👇"
 ---
 
 <div align="center">
-<sub>⭐ Cảm ơn bạn đã ghé thăm profile của mình!</sub>
+<sub>⭐ Thank you for visiting my profile!</sub>
 </div>
 
 </div>
