@@ -18,7 +18,7 @@
 
 ```yaml
 ho_va_ten:      "DO MINH THUAN"
-vai_tro:        "Backend Web Developer"
+vai_tro:        "Backend Engineer Developer"
 dam_me:         ["RESTful API", "System Design", "Database Optimization", "Microservices", "FontEnd", "BackEnd"]
 dang_hoc:       "Software Engineer"
 so_thich:       "Thiết kế API rõ ràng, tối ưu truy vấn, code dễ bảo trì"
