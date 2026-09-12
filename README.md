@@ -125,7 +125,8 @@ contact:         "See the Connect with Me section below "
 
 **Technologies:** `HTML` `JAVASCRIPT` `CSS` `JS`
 
- View:🔗 https://github.com/thuan-devops/Ega-Furniture
+ View Project:🔗 https://github.com/thuan-devops/Ega-Furniture
+ View Website:🔗 https://egafurniture-thuandev.netlify.app/
 
 </td>
 <td width="50%" valign="top">
